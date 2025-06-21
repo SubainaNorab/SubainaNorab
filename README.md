@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 BS Artificial Intelligence | 6th Semester  
+- 🎓 BS Artificial Intelligence 
 - 🤖 Working on **IoT + AI** projects using ESP32, MQTT, InfluxDB, TensorFlow  
 - 🌱 Currently learning **Edge AI**, **TensorFlow Lite**, and **microPython**  
 - 🚀 Dream: Build impactful tech that helps people live smarter, safer, and greener  
