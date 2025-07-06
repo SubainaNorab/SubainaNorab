@@ -28,6 +28,7 @@
   *Real-time hand gesture recognition using computer vision.*
 
 - 🔧 [**Smart Solar Panel Cleaning System**](https://github.com/SubainaNorab/Automated-solar-panel-cleaning-system)
+
   *Automated panel cleaning with ESP32, sensors, and ML-based efficiency tracking.*
 
 - 🖼️ [**Image Caption Generator**](https://github.com/subainanorab/image-caption-generator)  
