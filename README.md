@@ -1,41 +1,49 @@
 <h1 align="center">Hi 👋, I'm Subaina Norab</h1>
-<h3 align="center">A passionate AI & IoT enthusiast </h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subainanorab&label=Profile%20views&color=0e75b6&style=flat" alt="subainanorab" />
-</p>
+<h3 align="center">AI and Machine Learning Engineer</h3>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 BS Artificial Intelligence 
-- 🤖 Working on **IoT + AI** projects using ESP32, MQTT, InfluxDB, TensorFlow  
+- 🎓 BS Artificial Intelligence  
+- 🤖 Building projects using **TensorFlow, Scikit-Learn, and Python**  
 - 🌱 Currently learning **Edge AI**, **TensorFlow Lite**, and **microPython**  
 - 🚀 Dream: Build impactful tech that helps people live smarter, safer, and greener  
-- 💬 Ask me about: Python, ESP32, DHT11, ML models, MQTT, Git  
-  
+- 💬 Ask me about: Python, ML models, classification, Git, TensorFlow  
 
 ---
 
 ### 🛠️ Tech Stack
 
-- 💻 Languages: Python, C/C++, HTML/CSS, JavaScript
-- ⚡ Platforms: ESP32, Arduino IDE, Raspberry Pi
-- 📊 ML Tools: TensorFlow, Scikit-Learn, Orange
-- ☁️ IoT & Cloud: ThingSpeak, MQTT, InfluxDB
-- 🧰 Others: Git, GitHub, VS Code, Canva
+- 💻 Languages: Python, C/C++, HTML/CSS, JavaScript  
+- 📊 ML Tools: TensorFlow, Scikit-Learn, Orange  
+- 🧠 Areas: Classification, Regression, NLP, Edge AI, Computer Vision  
+- 🧰 Others: Git, GitHub, VS Code, Canva  
+
+---
+
+### 🧪 Projects
+
+- 🧠 [**Sign Language Detection System**](https://github.com/subainanorab/sign-language-detection)  
+  *Real-time hand gesture recognition using computer vision and CNNs.*
+
+- 🔧 [**Smart Solar Panel Cleaning System**](https://github.com/subainanorab/solar-panel-cleaning-iot)  
+  *Automated panel cleaning with ESP32, sensors, and ML-based efficiency tracking.*
+
+- 🖼️ [**Image Caption Generator**](https://github.com/subainanorab/image-caption-generator)  
+  *Generates natural language descriptions of images using CNN + LSTM.*
+
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subainanorab&show_icons=true&theme=tokyonight" alt="subainanorab" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subainanorab&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subainanorab&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subainanorab&theme=tokyonight" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subainanorab&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subainanorab&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -43,7 +51,10 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/yourname" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/yourname" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
