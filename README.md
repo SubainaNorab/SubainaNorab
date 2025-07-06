@@ -25,13 +25,13 @@
 ### 🧪 Projects
 
 - 🧠 [**Sign Language Detection System**](https://github.com/subainanorab/sign-language-detection)  
-  *Real-time hand gesture recognition using computer vision and CNNs.*
+  *Real-time hand gesture recognition using computer vision.*
 
-- 🔧 [**Smart Solar Panel Cleaning System**](https://github.com/subainanorab/solar-panel-cleaning-iot)  
+- 🔧 [**Smart Solar Panel Cleaning System**](https://github.com/SubainaNorab/Automated-solar-panel-cleaning-system)
   *Automated panel cleaning with ESP32, sensors, and ML-based efficiency tracking.*
 
 - 🖼️ [**Image Caption Generator**](https://github.com/subainanorab/image-caption-generator)  
-  *Generates natural language descriptions of images using CNN + LSTM.*
+  *Generates natural language descriptions of images.*
 
 
 ---
