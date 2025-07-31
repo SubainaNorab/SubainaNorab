@@ -7,7 +7,7 @@
 
 - 🎓 BS Artificial Intelligence  
 - 🤖 Building projects using **TensorFlow, Scikit-Learn, and Python**  
-- 🌱 Currently learning **Edge AI**, **TensorFlow Lite**, and **microPython**  
+- 🌱 Currently learning **Deep Learning**, **NLP**, and **Flutter**  
 - 🚀 Dream: Build impactful tech that helps people live smarter, safer, and greener  
 - 💬 Ask me about: Python, ML models, classification, Git, TensorFlow  
 
